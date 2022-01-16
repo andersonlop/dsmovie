@@ -10,7 +10,7 @@ import com.devsuperior.dsmovie.dto.MovieDTO;
 import com.devsuperior.dsmovie.entities.Movie;
 import com.devsuperior.dsmovie.repositories.MovieRepository;
 
-@Service /*irá registrar o service como um componente do sistema*/
+@Service 
 public class MovieService {
 	
 	@Autowired
