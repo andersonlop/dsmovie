@@ -1,6 +1,8 @@
 ##  Aplicação de Avaliação de Filmes realizado na Semana Spring React da DEVSUPERIOR
 
-#### Fiquem a vontade para usar e avaliar os filmes. Lembrando que a aplicação precisa de 01 minuto para poder ficar no ar.
+<p align="justify">
+Fiquem a vontade para usar e avaliar os filmes. Lembrando que a aplicação precisa de 01 minuto para poder ficar no ar.
+</p>
 
 ### Link do Projeto hospedado: https://andersonsiqueira-dsmovie.netlify.app/
 
