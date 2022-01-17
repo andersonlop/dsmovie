@@ -5,7 +5,7 @@
 ### Link do Projeto hospedado: https://andersonsiqueira-dsmovie.netlify.app/
 
 ## Descrição do Projeto
-<p align="center">
+<p align="justify">
 Projeto com backend e frontend totalmente integrado com banco de dados com as tecnologias: Java, React, Spring, TypeScript, CSS, HTML e no banco de dados Postgresql 12.
 </p>
 
